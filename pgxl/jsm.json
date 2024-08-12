@@ -3,7 +3,7 @@
 	"sites":[
 		{
 			"key": "豆瓣",
-			"name": "豆瓣",
+			"name": "豆瓣【0812晚更新于github】",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
@@ -105,6 +105,54 @@
 			"api": "./lib/live2vod.js",
 			"ext": "./lib/feimaolive.json"
 		},
+			{
+			"key": "玩偶",
+			"name": "fty玩偶哥哥┃4K弹幕",
+			"type": 3,
+			"api": "csp_WoGG",
+			"jar": "./jar/fty.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": {
+			  "Cloud-drive": "tvfan/Cloud-drive.txt",
+			  "from": "4k|auto",
+			  "siteUrl": "https://www.wogg.net/",
+			  "danMu": "弹"
+			}
+		  },
+		{
+			"key": "NanGua",
+			"name": "南瓜|弹幕",
+			"type": 3,
+			"api": "csp_NanGua",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "null$$$1"
+		},
+				{
+			"key": "賤賤",
+			"name": "荐片",
+			"type": 3,
+			"api": "csp_Jianpian",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./lib/jianpian.json$$$1",
+			"timeout":60
+		},
+				  {
+			"key": "厂长",
+			"name": "📔厂长┃不卡",
+			"type": 3,
+			"api": "csp_NewCz",
+			 "jar": "./jar/fty.jar",
+			"timeout": 15,
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://czzy.top/"
+		  },
 		{
 			"key": "FirstAid",
 			"name": "🚑 急救知识 ",
@@ -427,15 +475,7 @@
 			},
 			"jar": "./lib/XBPQ.jar"
 		},
-		{
-			"key": "NanGua",
-			"name": "南瓜|弹幕",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "null$$$1"
-		},
+		
 		{
 			"key": "新6V",
 			"name": "新6V|网盘",
@@ -460,16 +500,7 @@
 			"api": "csp_TTian",
 			"ext": "http://app.kzjtv.com$$$null$$$1"
 		},
-		{
-			"key": "賤賤",
-			"name": "荐片",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "./lib/jianpian.json$$$1",
-			"timeout":60
-		},
+
 		{
 			"key": "黑木耳",
 			"name": "黑木耳",
