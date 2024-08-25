@@ -286,6 +286,20 @@
 			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{
+            "key": "13AV",
+            "name": "🔞13AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "直接播放": "1",
+                "嗅探词": "index.m3u8",
+                "简介": "name=\"description\" content=\"&&\"/>",
+                "分类url": "https://13av.com/vodtype/{cateId}-{catePg}",
+                "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
+            }
+        },
+		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
 			"type": 3,
