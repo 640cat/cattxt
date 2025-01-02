@@ -11,46 +11,6 @@
 			"indexs":1,
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
-		{"key":"TGDouban","name":"TG豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
-				"proxy":"noproxy",
-				"douban":"./lib/douban.json",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 0.7
-			}
-		},
-		{
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 120,
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
@@ -128,19 +88,7 @@
 			"api": "./lib/live2vod.js",
 			"ext": "./lib/feimaolive.json"
 		},
-		{
-			"key": "FirstAid",
-			"name": "🚑 急救知识 ",
-			"type": 3,
-			"api": "csp_FirstAid",
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 3.8
-			}
-		},
+	
 		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":1, "searchable":0, "quickSearch":0, "changeable":1,
 			"indexs":1
 		},
@@ -155,38 +103,6 @@
 			"ext":{
 				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
 				"cookie":""
-			}
-		},
-		{"key":"TGYunPanLocal","name":"TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-		{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
-				"proxy":"noproxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
 			}
 		},
 		{"key":"Guanying","name":"观影|网盘|磁力","type":3,"api":"csp_Guanying","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.gyg.la$$$noproxy$$$1$$$./lib/guanying.txt"},
