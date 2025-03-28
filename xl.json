@@ -1,0 +1,16 @@
+
+{
+    "urls": [
+           {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/pgxl2/jsm.json","name": "githubPG新"},
+           {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty"},
+           {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fm/fm.json","name": "githubfm"},
+                 {"url": "https://mirror.ghproxy.com//https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty二"},
+           {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/fm/fm.json","name": "githubfm二"},
+          { "url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/pgxl/jsm.json","name": "githubPG旧"},
+            {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/pgxl2/jsm.json","name": "githubPG新镜像二"},
+{"url": "http://ok321.top/ok","name": "⚜️ok外部接口"},
+{"url": "https://xn--z7x900a.com/","name": "⚜️肥猫原始"},
+      {"url": "http://www.饭太硬.net/tv/","name": "⚜️饭太硬原始备用"},
+{"url": "http://www.饭太硬.com/tv/","name": "⚜️fty原始在线地址"}
+]
+}
