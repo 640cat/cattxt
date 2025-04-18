@@ -2,6 +2,7 @@
 {
     "urls": [
            {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty"},
+        {"url": "https://ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty1"},
         {"url": "https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty原"},
          {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/pgxl2/jsm.json","name": "githubPG新"},
            {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fm/fm.json","name": "githubfm"},
