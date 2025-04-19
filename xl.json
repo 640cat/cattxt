@@ -1,23 +1,23 @@
 
 {
     "urls": [
-           {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty"},
+                             {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口"},
+        {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口二"},
+        {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty"},
         {"url": "https://ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty1"},
         {"url": "https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty原"},
          {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/pgxl2/jsm.json","name": "githubPG新"},
            {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fm/fm.json","name": "githubfm"},
-                   {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米接口"},
-        {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米接口二"},
                  {"url": "https://mirror.ghproxy.com//https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty二"},
            {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/fm/fm.json","name": "githubfm二"},
             {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/pgxl2/jsm.json","name": "githubPG新镜像二"},
 {"url": "http://ok321.top/ok","name": "⚜️ok外部接口"},
 {"url": "https://6296.kstore.vip/facat.json","name": "⚜️肥猫原始"},
       {"url": "http://www.饭太硬.net/tv/","name": "⚜️饭太硬原始备用"},
-        {"url": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "⚜️小米1"}, 
-   {"url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "⚜️小米2"}, 
-   {"url": "https://d.kstore.dev/download/13826/DEMO.json","name": "⚜️小米3"}, 
-   {"url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json","name": "⚜️小米4"},
+        {"url": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "⚜️小米原始1"}, 
+   {"url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "⚜️小米原始2"}, 
+   {"url": "https://d.kstore.dev/download/13826/DEMO.json","name": "⚜️小米原始3"}, 
+   {"url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json","name": "⚜️小米原始4"},
 {"url": "http://www.饭太硬.com/tv/","name": "⚜️fty原始在线地址"}
 ]
 }
