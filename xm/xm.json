@@ -62,6 +62,23 @@
       "filterable": 1,
       "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKPqBr5XvHEJiNqliypf3Ch+p8IfjaEUxnG3XYlNxjw3ciN36BLBmKbludBzyfsiGmglc5Hdmw/3KJo9M6OCUspScOAuOhnQIPCiP6a6PFuOOxS+7z5Z/FV0k3Ee9fQIVuwE7nNgRUFWRinsDSuhPjKBd/SrLfu0rxSNOfsukdYXkcvGadhMos8qXcpGJVZVLXOfgqfJkyrlbFa8XJWQ9m9bDjfSOZbHqtC5kNkxfArWP9v2MC2jUcC4cEXk8ANYyYBMcAfo/zIpXdTsEBNC3nyXfAz+PVcPD00bRb2eSgBaNi7EShnmcFJ07jecOaWoCcXiVUOJ6GEJa9G11HhGW4g="
     },
+        {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGGGuard",
+      "jar": "./fty.jar",
+      "timeout": 30,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.com/",
+        "danMu": "弹"
+      }
+    },
     {
       "key": "csp_Bili",
       "name": "💯哔哩┃哔哩",
