@@ -4,7 +4,7 @@
   "sites": [
        {
       "key": "豆",
-      "name": "豆瓣0418更新xmwgfty",
+      "name": "豆瓣0418综合更新",
       "type": 3,
       "jar": "./fty.jar",
       "api": "csp_DouDouGuard",
