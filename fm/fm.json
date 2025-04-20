@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐼┃豆瓣┃0420更新fm",
+      "name": "🐼┃豆瓣┃0420综合更新fm",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
