@@ -2,6 +2,17 @@
   "spider": "./mi0420.txt;md5;b8d03d56973a911d1a66ad0f70226cef",
   "wallpaper": "https://t.alcy.cc/fj",
   "sites": [
+           {
+      "key": "豆",
+      "name": "豆瓣0420综合更新",
+      "type": 3,
+      "jar": "./fty.jar",
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
     {
       "key": "豆豆",
       "name": "🌈豆瓣┃小米0420更新",
