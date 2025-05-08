@@ -2,6 +2,17 @@
   "spider": "./mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
   "wallpaper": "https://t.alcy.cc/fj",
   "sites": [
+              {
+      "key": "豆",
+      "name": "豆瓣┃小米综合0508更新",
+      "type": 3,
+      "jar": "./fty.jar",
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
     {
       "key": "豆豆",
       "name": "🌈豆瓣┃小米综合0508更新",
