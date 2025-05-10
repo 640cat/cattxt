@@ -3,6 +3,8 @@
     "urls": [
                              {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口二"},
+                          {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/640/640.json","name": "王二小接口"},
+        {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/640/640.json","name": "王小二接口二"},
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty"},
         {"url": "https://ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty1"},
         {"url": "https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty原"},
@@ -18,6 +20,7 @@
    {"url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "⚜️小米原始2"}, 
    {"url": "https://d.kstore.dev/download/13826/DEMO.json","name": "⚜️小米原始3"}, 
    {"url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json","name": "⚜️小米原始4"},
+           {"url": " http://tvbox.王二小放牛娃.top","name": "⚜️王二小原始4"},
 {"url": "http://www.饭太硬.com/tv/","name": "⚜️fty原始在线地址"}
 ]
 }
