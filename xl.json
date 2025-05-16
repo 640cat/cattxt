@@ -1,12 +1,12 @@
 
 {
     "urls": [
-        {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/640/640.json","name": "王二小接口"},
-        {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/640/640.json","name": "王小二接口二"},
-           {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "OK接口"},
+                  {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "OK接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "OK接口二"},
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口二"},
+                {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/640/640.json","name": "王二小接口"},
+        {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/640/640.json","name": "王小二接口二"},
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty"},
         {"url": "https://ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty1"},
         {"url": "https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty原"},
