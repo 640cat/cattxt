@@ -3,6 +3,8 @@
     "urls": [
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/640/640.json","name": "王二小接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/640/640.json","name": "王小二接口二"},
+           {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "OK接口"},
+        {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "OK接口二"},
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口二"},
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/fty/fty.json","name": "githubfty"},
@@ -14,6 +16,7 @@
            {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/fm/fm.json","name": "githubfm二"},
             {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/pgxl2/jsm.json","name": "githubPG新镜像二"},
 {"url": "http://ok321.top/ok","name": "⚜️ok外部接口"},
+        {"url": "http://ok321.top/tv","name": "⚜️ok内部接口"},
 {"url": "https://6296.kstore.vip/facat.json","name": "⚜️肥猫原始"},
       {"url": "http://www.饭太硬.net/tv/","name": "⚜️饭太硬原始备用"},
         {"url": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "⚜️小米原始1"}, 
