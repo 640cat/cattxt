@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "Douban",
-      "name": "豆瓣640┃于1017更新wex",
+      "name": "豆瓣┃640于1017更新",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,
