@@ -1,7 +1,9 @@
 
 {
     "urls": [
-                  {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "OK接口"},
+                 {"url": "https://gitee.com/catcatmaomao/tv/raw/master/wex/wex.json","name": "gitee的王二小"},
+                    {"url": "https://gitee.com/catcatmaomao/tv/raw/master/tv/tv.json","name": "gitee的OK接口"},
+                    {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "OK接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "OK接口二"},
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/xm/xm.json","name": "小米综合接口二"},
