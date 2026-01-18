@@ -891,16 +891,6 @@
       "playerType": 2,
       "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&json=true",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
-    }，
-    {
-      "name": "四川直播本地",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/live/live_sc_unicom.m3u",
-    }，
-    {
-      "name": "四川直播道长仓",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/drpy-node/refs/heads/main/json/tv/live_sc_unicom.m3u",
     }
   ],
   "headers": [
