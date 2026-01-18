@@ -1211,9 +1211,9 @@
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
-      "name": "AI直播",
+      "name": "四川直播本地",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/live/live_sc_unicom.m3u",
       "playerType": 2,
       "timeout": 10
     },
