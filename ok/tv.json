@@ -1215,6 +1215,12 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/drpy-node/refs/heads/main/json/tv/live_sc_unicom.m3u",
       "playerType": 2,
       "timeout": 10
+    },{
+      "name": "四川直播在线",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/10717/scy.txt",
+      "playerType": 2,
+      "timeout": 10
     },
         {
       "name": "MIGU",
