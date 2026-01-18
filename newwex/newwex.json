@@ -896,15 +896,11 @@
       "name": "四川直播本地",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/live/live_sc_unicom.m3u",
-      "playerType": 2,
-      "timeout": 10
     }，
     {
       "name": "四川直播道长仓",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/drpy-node/refs/heads/main/json/tv/live_sc_unicom.m3u",
-      "playerType": 2,
-      "timeout": 10
     }
   ],
   "headers": [
