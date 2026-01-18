@@ -1203,19 +1203,19 @@
   ],
   "lives": [
     {
+      "name": "四川直播本地",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/live/live_sc_unicom.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },
+        {
       "name": "MIGU",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
       "playerType": 2,
       "timeout": 10,
       "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-    {
-      "name": "四川直播本地",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/live/live_sc_unicom.m3u",
-      "playerType": 2,
-      "timeout": 10
     },
     {
       "name": "电视Live",
