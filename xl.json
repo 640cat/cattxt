@@ -1,10 +1,12 @@
 
 {
     "urls": [
- {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/newwex/newwex.json","name": "gitub的新王二小"},
-  {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/newwex/newwex.json","name": "gitub的新王二小2"},
                     {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "githubOK接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/ok/tv.json","name": "githubOK接口二"},
+        {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/newwex/newwex.json","name": "gitub的新王二小"},
+  {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/newwex/newwex.json","name": "gitub的新王二小2"},
+        {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/api/api.json","name": "gitub的潇洒"},
+  {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/api/api.json","name": "gitub的潇洒2"},
                             {"url": "https://ghproxy.net/https://raw.githubusercontent.com/640cat/cattxt/main/moyu/moyu.json","name": "github摸鱼接口"},
         {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/640cat/cattxt/main/moyu/moyu.json","name": "github摸鱼接口二"},
   {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/640cat/cattxt/refs/heads/main/newwex/newwex.json","name": "gitub的新王二小3"},
