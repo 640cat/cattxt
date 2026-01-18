@@ -1209,6 +1209,13 @@
       "playerType": 2,
       "timeout": 10
     },
+    {
+      "name": "四川直播道长仓",
+      "type": 0,
+      "url": "https://ghproxy.net/https://github.com/hjdhnx/drpy-node/blob/main/json/tv/live_sc_unicom.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },
         {
       "name": "MIGU",
       "type": 0,
