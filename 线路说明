@@ -7,8 +7,8 @@ https://9764.kstore.vip/lmentor/catvod/index.js.md5
 https://17095.kstore.space/index.js.md5
 github://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@github.com/eulac-dev/catvod/main/xuenai/index.js.md5
 tvbox源：
-// 潇洒多线路tvbox：https://9877.kstore.space/AnotherD/api.json    
- //潇洒单线路tvbox：https://9877.kstore.space/AnotherDS/api.json   
+潇洒多线路tvbox：https://9877.kstore.space/AnotherD/api.json    
+潇洒单线路tvbox：https://9877.kstore.space/AnotherDS/api.json   
 道长在线tvbox：https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
 新王二小：
 https://9280.kstore.vip/newwex.json
@@ -47,19 +47,13 @@ http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
 http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
 
-导入方法一：
-复制源地址 > 打开app > 点设置 > 点视频源 > 点右上角 > 点添加源列表 > 点粘贴 > 点确定 > 等待解析 > 解析成功 > 选择要添加的源 > 点添加
 
-导入方法二：
-下载源文件 > 打开app > 点设置 > 点视频源 > 点右上角 > 点导入源文件 > 等待解析 > 解析成功 > 选择要添加的源 > 点添加
-
+uz:
 0、官方主源：https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/uzAio.json
 
 1、优选源：https://gh-proxy.com/https://raw.githubusercontent.com/Yswag/uzVideo/main/js/spider_sources.json
 
 2、采集源：https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo/main/video_sources_default.json
-
-3、瑟瑟源：https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo/main/video_sources_sese.json
 
 网盘扩展：
 设置 -> 数据管理 -> 视频源 -> 小齿轮 -> 添加源列表 -> 输入 上面的链接 -> 确定，
@@ -71,9 +65,6 @@ http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
 
 5、网盘主流源：https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/vod.json
 
-
-
-以上资源如果无法加载出海报内容，一般是因为网络屏蔽，请使用梯子访问。
 
 日常第三导入方法：
 在 app 内 添加源列表弹窗
